@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Sample IIS Web Application</title>
-</head>
-<body>
-  <h1>Welcome to the Sample IIS Web Application!</h1>
-  <p>This is a basic web page hosted on IIS.</p>
-</body>
-</html>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Message"]</h1>
+    <p>To learn more about ASP.NET Core, visit the <a href="https://docs.microsoft.com/aspnet/core">documentation</a>.</p>
+</div>
