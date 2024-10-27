@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rep-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69ec7e28d2dcb49c37ef228865139244c8399d32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ff5160c6d8a8c69ab14842bdee66654ec5a3faf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rep-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rep-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
